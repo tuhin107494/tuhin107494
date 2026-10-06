@@ -129,10 +129,10 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 ## 📊 Problem Solving Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tuhin107494)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_URL)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_URL)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tuhin107494)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tuhinahmed)
 [![Toph](https://img.shields.io/badge/Toph-FF6B35?style=for-the-badge&logo=toph&logoColor=white)](https://toph.co/u/tuhin107494)
-[![LightOJ](https://img.shields.io/badge/LightOJ-1A1A1A?style=for-the-badge)](YOUR_LIGHTOJ_URL)
+[![LightOJ](https://img.shields.io/badge/LightOJ-1A1A1A?style=for-the-badge)](https://lightoj.com/user/tuhin107494)
 [![UVA](https://img.shields.io/badge/UVA-1A1A1A?style=for-the-badge)](YOUR_UVA_URL)
 
 ---
