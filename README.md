@@ -8,8 +8,7 @@
 - 🚀 I have experience in **full-stack web development** using Laravel, React.js, AdonisJS, and Next.js.
 - 🌱 I’m currently learning more about **scalable backend systems, SaaS applications, and modern web technologies**.
 - 🧠 I enjoy **problem solving, competitive programming, and software development**.
-- 🏆 I have solved **2500+ programming problems** and participated in **50+ programming contests**.
-- 🎓 B.Sc. in **Computer Science & Engineering** from Comilla University.
+- 🏆 I have solved **2500+ programming problems** and participated in **200+ programming contests**.
 - 📫 Feel free to connect with me through the links below.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuhin107494)
