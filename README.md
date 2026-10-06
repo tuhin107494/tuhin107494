@@ -7,7 +7,6 @@
 - 💻 I’m currently working as a **Software Engineer**.
 - 🚀 I have experience in **full-stack web development** using Laravel, React.js, AdonisJS, and Next.js.
 - 🌱 I’m currently learning more about **scalable backend systems, SaaS applications, and modern web technologies**.
-- 🧠 I enjoy **problem solving, competitive programming, and software development**.
 - 🏆 I have solved **2500+ programming problems** and participated in **200+ programming contests**.
 - 📫 Feel free to connect with me through the links below.
 
