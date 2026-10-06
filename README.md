@@ -100,6 +100,9 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_URL)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_URL)
+[![LightOJ](https://img.shields.io/badge/LightOJ-000000?style=for-the-badge)](YOUR_LIGHTOJ_URL)
+[![UVA](https://img.shields.io/badge/UVA-000000?style=for-the-badge)](YOUR_UVA_URL)
+[![Toph](https://img.shields.io/badge/Toph-FF6B35?style=for-the-badge)](YOUR_TOPH_URL)
 
 ---
 
