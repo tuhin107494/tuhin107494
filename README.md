@@ -131,7 +131,6 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tuhinahmed)
 [![Toph](https://img.shields.io/badge/Toph-FF6B35?style=for-the-badge&logo=toph&logoColor=white)](https://toph.co/u/tuhin107494)
 [![LightOJ](https://img.shields.io/badge/LightOJ-1A1A1A?style=for-the-badge)](https://lightoj.com/user/tuhin107494)
-[![UVA](https://img.shields.io/badge/UVA-1A1A1A?style=for-the-badge)](https://github.com/tuhin107494/tuhin107494/blob/main/README.md)
 
 ---
 
