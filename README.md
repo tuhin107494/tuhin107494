@@ -39,7 +39,7 @@
 
 ---
 
-### 🎨 Frontend Development
+### Frontend Development
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
@@ -66,11 +66,11 @@
 
 ---
 
-## 💻 Projects
+##  Projects
 
 ### 🌐 Web Projects
 
-#### 🚀 Full-Stack & SaaS Applications
+####  Full-Stack & SaaS Applications
 
 - **EZY-COURSE**  
   Multi-tenant SaaS platform for online course management and learning.
@@ -94,7 +94,7 @@
 
 ---
 
-### 🧠 Machine Learning
+###  Machine Learning
 
 #### Parkinson's Disease Detection System
 
@@ -114,7 +114,7 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 
 ---
 
-## 🧠 Competitive Programming
+##  Competitive Programming
 
 - 💻 **2500+ programming problems solved**
 - 🏆 **50+ programming contests participated**
@@ -146,7 +146,7 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tuhin107494&theme=algolia" />
@@ -154,7 +154,7 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 
 ---
 
-## 🚀 Currently
+## Currently
 
 **Software Engineer | Full-Stack Developer**
 
@@ -170,4 +170,4 @@ A machine learning-based system for detecting Parkinson's disease using voice-re
 
 ---
 
-⭐️ From [Tuhin Miah](https://github.com/tuhin107494)
+ From [Tuhin Miah](https://github.com/tuhin107494)
